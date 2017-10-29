@@ -2,6 +2,8 @@
 
 https://rawgit.com/torres222/tarea2-lmsgi/master/new%201.html
 
+Fuentes: Consell de Mallorca
+
 
 <!DOCTYPE html>
 <html lang="es">
@@ -37,11 +39,11 @@ https://rawgit.com/torres222/tarea2-lmsgi/master/new%201.html
 <!-- Aqui va un comentario que no es interpretado por el navegador Una imatge (o diverses) relativa al tema que has triat. Aprofita per usar programes d'edició d'imatges tipus photoshop, gimp, per redimensionarla. Usa eines com tinypng.com per optimitzar-les--> 
 
 
-<img src="imagesj.jpg" alt = "imagen de montaña" />
-<img src="imagesk.jpg" alt = "imagen de arboles" />
-<img src="imagesz.jpg" alt = "imagen de senderistas" />
-<img src="imagesn.jpg" alt = "imagen de cima" />
-<img src="imagesx.jpg" alt = "imagen de zona de recreo" />
+<img src="img/imagesj.jpg" alt = "imagen de montaña" />
+<img src="img/imagesk.jpg" alt = "imagen de arboles" />
+<img src="img/imagesz.jpg" alt = "imagen de senderistas" />
+<img src="img/imagesn.jpg" alt = "imagen de cima" />
+<img src="img/imagesx.jpg" alt = "imagen de zona de recreo" />
 
       
 
