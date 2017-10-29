@@ -4,7 +4,7 @@
 <html lang="es">
 <head>
   <title> RUTA DE PEDRA EN SEC GR221 </title>
-  <meta name="description" content="Información sobre la ruta de Pedra en Sec GR221, red de antiguos caminos restaurada por el Consell de Mallorca. S’Arracó al Coll de sa Gramola, Es Capdellà a Estellencs, Calvià a Puigpunyent, Tossals Verds a Orient, Binibassí a Cala Tuent y la del Pas Llis"/>
+  <meta name="description" content="Guia resumen de las excursiones mas interesantes que podemos hacer en la famosa ruta de pedra en sec GR221 de la isla de Mallorca. Destacamos: Es Capdellà a Estellencs, Calvià a Puigpunyent, Tossals Verds a Orient, S’Arracó al Coll de sa Gramola y la del Pas Llis."/>
 </head>
 
 
@@ -22,15 +22,12 @@
 <!-- Aqui va un comentario que no es interpretado por el navegador Un rètol informatiu (h1-h6)--> 
    <h1>RUTA DE PEDRA EN SEC GR221</h1>
    
-   <h4>La Ruta de Pedra en Sec GR 221 nos ofrece 163 kilómetros señalizados, de los cuales 92 corresponden al itinerario principal, que permiten realizar el camino entre Estellencs y Esporles, y enlazar el pueblo de Deià
-con el Port de Pollença. Los otros 72,5 kilómetros forman parte de las variantes, de las cuales se pueden recorrer las de S’Arracó al Coll de sa Gramola, Es Capdellà a Estellencs, Calvià a Puigpunyent, Tossals Verds a Orient, Binibassí a Cala Tuent y la del Pas Llis.</h4>
+   <h4>En estas excursiones que podremos realizar a traves de los 163 kilómetros señalizados, 92 corresponden al itinerario principal y el resto, a las diferentes variantes..</h4>
     
 
 
 <!-- Aqui va un comentario que no es interpretado por el navegador Una descripció (p)-->
-  <p>Estas rutas nos proponen descubrir los paisajes de pedra en sec de la Serra de Tramuntana, declarada Patrimoni Mundial de la UNESCO en la categoría de Paisaje Cultural. Tambien, nos permite visitar interesantes monumentos históricos, encontrarse con mitos y leyendas, y conocer las tradiciones, la arquitectura, las costumbres, la gastronomía y la artesanía de este lugar privilegiado de la geografía de la isla.
-El itinerario senderista se acerca a menudo a la costa y en algunos tramos a las cimas más elevadas de nuestra sierra, siendo el punto más alto del recorrido el Coll de ses Cases de Neu, con poco más de mil cien metros de altura. Esta combinación y la diversidad de vegetación, con encinares y monte bajo mediterráneo, contribuyen a incrementar el interés paisajístico del recorrido.
-La Ruta de Pedra en Sec GR 221 se sustenta principalmente en la red de antiguos caminos restaurados por el Consell de Mallorca, circunstancia que la hace accesible para senderistas de todas las edades. Además gracias a la climatología de la isla es practicable la mayor parte del año.</p>
+  <p>Estas interesantes rutas nos van a permitir realizar excursiones de nivel medio, al alcance de senderista de todas las edades con un mínimo de preparación física. Podremos acercarnos a la costa en algunas ocasiones, visitar monumentos históricos, conocer tradiciones de nuestra isla, arquitectura gastronomía y artesanía. Suelen ser recorridos para hacer en un dia, pero existe la posibilidad de alojarnos en los refugios habilitados para ello en diferentes puntos de la Serra, previamente conviene hacer la reserva, sobre todo en la temporada de otoño-invierno.</p>
   
 
 
