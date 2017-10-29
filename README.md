@@ -28,8 +28,8 @@ con el Port de Pollença. Los otros 72,5 kilómetros forman parte de las variant
 
 
 <!-- Aqui va un comentario que no es interpretado por el navegador Una descripció (p)-->
-  <p>Estas excursiones nos proponen descubrir los paisajes de piedra en seco de la Serra de Tramuntana, hoy declarada Patrimonio Mundial de la UNESCO en la categoría de Paisaje Cultural. Asimismo, permite visitar interesantes vestigios históricos, encontrarse con mitos y leyendas, y conocer las tradiciones, la arquitectura, las costumbres, la gastronomía y la artesanía de este lugar privilegiado de la geografía isleña.
-El itinerario senderista se acerca a menudo a la costa y en algunos tramos a las cimas más elevadas de la sierra, siendo el punto más alto del recorrido el Coll de ses Cases de Neu, con poco más de mil doscientos metros de altura. Esta combinación y la diversidad de vegetación, con densos encinares y monte bajo típicamente mediterráneo, contribuyen a incrementar el interés paisajístico del sendero.
+  <p>Estas rutas nos proponen descubrir los paisajes de pedra en sec de la Serra de Tramuntana, declarada Patrimoni Mundial de la UNESCO en la categoría de Paisaje Cultural. Tambien, nos permite visitar interesantes monumentos históricos, encontrarse con mitos y leyendas, y conocer las tradiciones, la arquitectura, las costumbres, la gastronomía y la artesanía de este lugar privilegiado de la geografía de la isla.
+El itinerario senderista se acerca a menudo a la costa y en algunos tramos a las cimas más elevadas de nuestra sierra, siendo el punto más alto del recorrido el Coll de ses Cases de Neu, con poco más de mil cien metros de altura. Esta combinación y la diversidad de vegetación, con encinares y monte bajo mediterráneo, contribuyen a incrementar el interés paisajístico del recorrido.
 La Ruta de Pedra en Sec GR 221 se sustenta principalmente en la red de antiguos caminos restaurados por el Consell de Mallorca, circunstancia que la hace accesible para senderistas de todas las edades. Además gracias a la climatología de la isla es practicable la mayor parte del año.</p>
   
 
