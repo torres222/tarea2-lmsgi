@@ -1,4 +1,4 @@
-# tarea2-lmsgi
+# tarea2.1-lmsgi
 
 https://rawgit.com/torres222/tarea2-lmsgi/master/new%201.html
 
