@@ -1,4 +1,5 @@
 # tarea2.1-lmsgi
+JOSÉ MARIA TORNÉ SÁNCHEZ
 
 https://rawgit.com/torres222/tarea2-lmsgi/master/new%201.html
 
